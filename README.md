@@ -15,6 +15,6 @@ Processed raw data using Power Query for consistency and accuracy.
 Identified power hitters, anchors, finishers, all-rounders, and specialist fast bowlers.
 ## **Visualizations**: 
 Created tooltips and dashboards for performance analysis.
-##   **Deliverable**: I
-nsights on player performance and a visual representation of the ideal team lineup. 
+##   **Deliverable**: 
+Insights on player performance and a visual representation of the ideal team lineup. 
 
