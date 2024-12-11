@@ -2,7 +2,7 @@
 
  # **Project Name**: T20 World Cup 2022 Insights and Best 11 Players.
 
- ##**Objective**:
+ ## **Objective**:
  Analyzed T20 World Cup 2022 data to identify and build the best-performing cricket team.
 ## **Tools Used**: 
 Power BI, Power Query, DAX measures.
@@ -13,8 +13,8 @@ Processed raw data using Power Query for consistency and accuracy.
    - **Bowling**: Economy rate.
 ##  **Team Composition**: 
 Identified power hitters, anchors, finishers, all-rounders, and specialist fast bowlers.
-#  **Visualizations**: 
+## **Visualizations**: 
 Created tooltips and dashboards for performance analysis.
-#   **Deliverable**: I
+##   **Deliverable**: I
 nsights on player performance and a visual representation of the ideal team lineup. 
 
